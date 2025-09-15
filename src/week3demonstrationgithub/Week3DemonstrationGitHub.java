@@ -17,6 +17,7 @@ public class Week3DemonstrationGitHub {
         // TODO code application logic here
         //First Commit
         //DEMONSTRATING Pull
+        //fetch and merge demonstration
     }
     
 }
